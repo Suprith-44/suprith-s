@@ -20,6 +20,7 @@ _Sept 2020 - May 2022_
 - Enables citizens to securely report incidents through a decentralized private blockchain platform (Hyperledger fabric), ensuring anonymity and protection for witnesses.
 - Utilizing blockchain technology; the project establishes an immutable and transparent record of evidence collection storage; increasing inclusion in court cases.
 - Leveraging Differentiated Case Flow Management (DCM) by prioritizing cases based on their resource requirements and processing time using ML and NLP.
+![Blockcrime](/assets/blockcrime.jpg)
 
 ### Real-time fraud detection in digital transactions
 - Developed a real-time fraud detection system for digital transactions using Natural Language Processing (NLP).
