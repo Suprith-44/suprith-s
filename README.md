@@ -26,16 +26,19 @@ _Sept 2020 - May 2022_
 - Developed a real-time fraud detection system for digital transactions using Natural Language Processing (NLP).
 - Implemented algorithms to analyze user-generated reports detect fraudulent activity with high accuracy.
 - Utilized NLP techniques to extract relevant information from text data enabling timely intervention prevention fraudulent transaction.
+![upifraud](/assets/upifraud.jpg)
 
 ### Detection of esophageal cancer and other esophageal diseases
 - Engineered TensorFlow-based model image classification detect predict presence esophageal cancer related diseases.
 - Trained model diverse dataset medical images achieve high accuracy identifying abnormalities indicative esophageal cancer.
 - Implemented advanced image processing techniques extract key features patterns enabling early detection diagnosis potential health risks.
+![oesophagus](/assets/oesophagus.jpg)
 
 ### Identification of criminal transactions in bitcoin
 - Developed machine learning model identify criminal transactions within Bitcoin network enhancing security.
 - Leveraged advanced techniques to analyze transaction patterns and detect anomalous behavior associated with illegal activities.
 - Implemented the model to assist in preventing fraudulent transactions and ensuring compliance with regulatory standards in cryptocurrency transactions.
+![bitcoincrime](/assets/bitcoincrime.jpg)
 
 ## Technical Skills
 - Proficient in Python, R, Javascript, C.
