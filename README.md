@@ -23,27 +23,28 @@ _Sept 2020 - May 2022_
 ![Blockcrime](/assets/blockcrime.jpg)
 
 ### Real-time fraud detection in digital transactions
-- Developed a real-time fraud detection system for digital transactions using Natural Language Processing (NLP).
-- Implemented algorithms to analyze user-generated reports detect fraudulent activity with high accuracy.
-- Utilized NLP techniques to extract relevant information from text data enabling timely intervention prevention fraudulent transaction.
+- Developed a real-time fraud detection system for digital transactions using streamlit and Natural Language Processing (NLP).
+- Implemented algorithms to analyze user-generated reports to detect fraudulent activity with high accuracy.
+- Utilized NLP techniques to extract relevant information from text data, enabling timely intervention to prevent fraudulent transaction.
 ![upifraud](/assets/upifraud.jpg)
 
 ### Detection of esophageal cancer and other esophageal diseases
-- Engineered TensorFlow-based model image classification detect predict presence esophageal cancer related diseases.
-- Trained model diverse dataset medical images achieve high accuracy identifying abnormalities indicative esophageal cancer.
-- Implemented advanced image processing techniques extract key features patterns enabling early detection diagnosis potential health risks.
+- Engineered TensorFlow-based model image classification to detect and predict presence of esophageal cancer related diseases.
+- Trained the model on a diverse dataset of medical images to achieve high accuracy in identifying abnormalities indicative of esophageal cancer.
+- Implemented advanced image processing techniques to extract key features and patterns, enabling early detection and diagnosis of potential health risks.
 ![oesophagus](/assets/oesophagus.jpg)
 
 ### Identification of criminal transactions in bitcoin
-- Developed machine learning model identify criminal transactions within Bitcoin network enhancing security.
+- Developed machine learning model to identify criminal transactions within Bitcoin network, enhancing security measures in financial transactions.
 - Leveraged advanced techniques to analyze transaction patterns and detect anomalous behavior associated with illegal activities.
 - Implemented the model to assist in preventing fraudulent transactions and ensuring compliance with regulatory standards in cryptocurrency transactions.
 ![bitcoincrime](/assets/bitcoincrime.jpg)
 
 ## Technical Skills
 - Proficient in Python, R, Javascript, C.
-- Interested in data science, machine learning, AI/NLP, etc.
+- Interested in data science, machine learning, AI, NLP and blockchain.
 
 ## Responsibilities
 - Head of Operations for HealthTech club.
-- Member of Events Domain at PES University.
+- Member of Events Domain- Entrepreneurship Club, PES University
+- Core Member of Math Club
