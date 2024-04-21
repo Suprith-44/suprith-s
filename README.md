@@ -1,4 +1,4 @@
-# suprith-s
+# Computer Science and Engineering Student
 
 ## Education
 
@@ -6,13 +6,13 @@
 _Nov 2022 - April 2026_  
 - Bachelor of Computer Science and Engineering
 
-**Christ Junior College**  
-_Sept 2020 - May 2022_  
-- 12th PCMB
-
 **IIT MADRAS**  
 _Jan 2023 - May 2024_  
 - Diploma in Data Science
+
+**Christ Junior College**  
+_Sept 2020 - May 2022_  
+- 12th PCMB
 
 ## Projects
 
@@ -33,6 +33,8 @@ _Jan 2023 - May 2024_
 
 ### Identification of criminal transactions in bitcoin
 - Developed machine learning model identify criminal transactions within Bitcoin network enhancing security.
+- Leveraged advanced techniques to analyze transaction patterns and detect anomalous behavior associated with illegal activities.
+- Implemented the model to assist in preventing fraudulent transactions and ensuring compliance with regulatory standards in cryptocurrency transactions.
 
 ## Technical Skills
 - Proficient in Python, R, Javascript, C.
