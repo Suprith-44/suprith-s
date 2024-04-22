@@ -1,4 +1,4 @@
-## Contact: 
+## <span style="color:red"> Contact: </span>
 - gmail: supriths4804@gmail.com 
 - linkedin: [suprith-s](https://www.linkedin.com/in/suprith-s-2324b0213/)
 
