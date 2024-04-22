@@ -5,13 +5,16 @@
 ## <span style="color:blue">Education </span>
 
 **PES UNIVERSITY**  
-B.tech in Computer Science and Engineering <div style="text-align: right;"> *Nov 2022 - May 2026* </div>  
-
+<div style="text-align: right;"> Nov 2022 - May 2026 </div>
+B.tech in Computer Science and Engineering
+  
 **IIT MADRAS**  
-Diploma in Data Science <div style="text-align: right;"> *Jan 2023 - May 2024* </div> 
+<div style="text-align: right;"> Jan 2023 - May 2024 </div> 
+Diploma in Data Science 
 
 **Christ Junior College**  
-12th-PCMB <div style="text-align: right;"> *Sept 2020 - May 2022* </div> 
+<div style="text-align: right;"> Sept 2020 - May 2022 </div> 
+12th-PCMB 
 
 ## <span style="color:blue"> Projects </span>
 
