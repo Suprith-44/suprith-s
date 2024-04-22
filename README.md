@@ -1,6 +1,6 @@
 ## Contact: 
-- [gmail](supriths4804@gmail.com): supriths4804@gmail.com 
-- [linkedin](https://www.linkedin.com/in/suprith-s-2324b0213/): suprith-s
+- gmail: supriths4804@gmail.com 
+- linkedin: [suprith-s](https://www.linkedin.com/in/suprith-s-2324b0213/)
 
 ## Education
 
