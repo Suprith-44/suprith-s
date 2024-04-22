@@ -2,8 +2,7 @@
 
 ## Education
 
-**PES UNIVERSITY**  
-_Nov 2022 - April 2026_  
+**PES UNIVERSITY**            _Nov 2022 - April 2026_  
 - Bachelor of Computer Science and Engineering
 
 **IIT MADRAS**  
