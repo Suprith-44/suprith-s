@@ -1,6 +1,5 @@
 title: Suprith S
 logo: /assets/resume-photo.jpg
 theme: jekyll-theme-minimal
-contact_details:
-  gmail: supriths4804@gmail.com
-  linkedin: www.linkedin.com/in/suprith-s-2324b0213
+include:
+  - contact.html
