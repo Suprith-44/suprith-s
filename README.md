@@ -5,7 +5,7 @@
 ## <span style="color:blue">Education </span>
 
 **PES UNIVERSITY**  
-Bachelor of Computer Science and Engineering <div style="text-align: right;"> *Nov 2022 - May 2026* </div>  
+B.tech in Computer Science and Engineering <div style="text-align: right;"> *Nov 2022 - May 2026* </div>  
 
 **IIT MADRAS**  
 Diploma in Data Science <div style="text-align: right;"> *Jan 2023 - May 2024* </div> 
