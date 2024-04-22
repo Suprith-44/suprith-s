@@ -5,7 +5,7 @@
 ## <span style="color:blue">Education </span>
 
 **PES UNIVERSITY**  
-_Nov 2022 - May 2026_  
+<div style="text-align: right;"> Nov 2022 - May 2026 </div>  
 - Bachelor of Computer Science and Engineering
 
 **IIT MADRAS**  
