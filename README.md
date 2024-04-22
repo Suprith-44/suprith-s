@@ -1,6 +1,6 @@
 ## <span style="color:blue"> Contact: </span>
 - gmail: [supriths4804@gmail.com](mailto:supriths4804@gmail.com)
-- linkedin: [suprith-s](https://www.linkedin.com/in/suprith-s-2324b0213/)
+- linkedin: [suprith-s](https://www.linkedin.com/in/suprith-s44/)
 
 ## <span style="color:blue">Education </span>
 
