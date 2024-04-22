@@ -1,4 +1,4 @@
-# Computer Science and Engineering Student
+## [gmail](supriths4804@gmail.com)          [linkedin](www.linkedin.com/in/suprith-s-2324b0213)
 
 ## Education
 
