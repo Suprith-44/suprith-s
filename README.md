@@ -1,3 +1,4 @@
+<div style="background-color: lightblue; padding: 10px;">
 ## <span style="color:blue"> Contact: </span>
 - gmail: supriths4804@gmail.com 
 - linkedin: [suprith-s](https://www.linkedin.com/in/suprith-s-2324b0213/)
@@ -72,3 +73,4 @@ Diploma in Data Science
 - Head of Operations for HealthTech club.
 - Member of Events Domain- Entrepreneurship Club, PES University
 - Core Member of Math Club
+</div>
