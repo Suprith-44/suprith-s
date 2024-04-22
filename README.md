@@ -18,7 +18,6 @@ Diploma in Data Science
 <div style="text-align: right;"> Sept 2020 - May 2022 </div> 
 12th-PCMB 
 -------------------------------------------------------------
-
 ## <span style="color:blue"> Projects </span>
 
 ### <span style="color:green"> DeepWatcher- Protecting Social Media from Deepfakes </span>
