@@ -16,13 +16,18 @@ _Sept 2020 - May 2022_
 
 ## Projects
 
-### Decentralized Incident Reporting and Efficient Case Management through Blockchain Technology
+### DeepWatcher- Protecting Social Media from Deepfakes
+- Employs advanced deep-learning techniques, specifically Convolutional Neural Networks (CNNs), to analyze images and videos in real-time as they are uploaded to social media platforms.
+- Prioritizing prevention over remediation. Instead of waiting for deepfake content to cause harm and then addressing it, DeepWatcher stops it at the source, ensuring that manipulated content never reaches the public domain.
+- DeepWatcher enhances user trust and engagement, ultimately benefiting both individuals and social media platforms alike.
+![DeepWatcher](/assets/deepwatcher.png)
+### Blockthecrime- Decentralized Incident Reporting and Efficient Case Management through Blockchain Technology
 - Enables citizens to securely report incidents through a decentralized private blockchain platform (Hyperledger fabric), ensuring anonymity and protection for witnesses.
 - Utilizing blockchain technology; the project establishes an immutable and transparent record of evidence collection storage; increasing inclusion in court cases.
 - Leveraging Differentiated Case Flow Management (DCM) by prioritizing cases based on their resource requirements and processing time using ML and NLP.
 ![Blockcrime](/assets/blockcrime.jpg)
 
-### Real-time fraud detection in digital transactions
+### Safepay- Real-time fraud detection in digital transactions
 - Developed a real-time fraud detection system for digital transactions using streamlit and Natural Language Processing (NLP).
 - Implemented algorithms to analyze user-generated reports to detect fraudulent activity with high accuracy.
 - Utilized NLP techniques to extract relevant information from text data, enabling timely intervention to prevent fraudulent transaction.
