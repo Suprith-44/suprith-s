@@ -26,7 +26,7 @@ _Sept 2020 - May 2022_
 - Designed gene sequencing algorithms to **analyze the genetic sequences of prospective parents**, providing a comprehensive understanding of **potential genetic diseases their offspring might inherit**.
 - **Examining both parental and grandparental genetic data**, it offers a thorough assessment of recessive genetic disorders, enabling a more **accurate prediction of disease probabilities in future generations**.
 - Instead of manual examination of nucleotide combinations, Unhigh-gene employs **algorithms for each genetic disease, streamlining the detection process**. This automated computational approach **significantly reduces the time and effort required by geneticists**, ensuring faster and more efficient analysis of genetic disorders.
-![geneseq](/assests/geneseq.jpg)
+![geneseq](/assets/geneseq.jpg)
 
 ### Blockthecrime- Decentralized Incident Reporting and Efficient Case Management through Blockchain Technology
 - Enables citizens to securely report incidents through a **decentralized private blockchain platform (Hyperledger fabric)**, ensuring anonymity and protection for witnesses.
