@@ -18,9 +18,9 @@ Diploma in Data Science
 <div style="text-align: right;"> Sept 2020 - May 2022 </div> 
 12th-PCMB 
 
+
 ## <span style="color:blue"> Projects </span>
 
--------------------------------------------------------------
 ### <span style="color:green"> DeepWatcher- Protecting Social Media from Deepfakes </span>
 - Employs advanced deep-learning techniques, specifically **Convolutional Neural Networks** (CNNs), to **analyze images and videos in real-time** as they are uploaded to social media platforms.
 - Prioritizing prevention over remediation. Instead of waiting for **deepfake content** to cause harm and then addressing it, DeepWatcher stops it at the source, **ensuring that manipulated content never reaches the public domain.**
