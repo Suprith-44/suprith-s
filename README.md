@@ -66,7 +66,7 @@ Diploma in Data Science
 -------------------------------------------------------------
 ## <span style="color:blue"> Technical Skills </span>
 - Proficient in Python, R, Javascript, C.
-- Interested in data science, machine learning, AI, NLP and blockchain.
+- Interested in Data Science, Machine Learning, AI, NLP, Computer Vision, Blockchain and Deep-learning.
 
 ## <span style="color:blue"> Responsibilities </span>
 - Head of Operations for HealthTech club.
