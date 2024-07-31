@@ -7,10 +7,12 @@
 **PES UNIVERSITY**  
 <div style="text-align: right;"> Nov 2022 - May 2026 </div>
 B.tech in Computer Science and Engineering
+
 -------------------------------------------------------------
 **IIT MADRAS**  
 <div style="text-align: right;"> Jan 2023 - May 2024 </div> 
 Diploma in Data Science 
+
 -------------------------------------------------------------
 **Christ Junior College**  
 <div style="text-align: right;"> Sept 2020 - May 2022 </div> 
